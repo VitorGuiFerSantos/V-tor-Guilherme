@@ -1,7 +1,7 @@
 # Olá, eu sou o Vitor Guilherme! 👋
 
-🎓 Estudante de Ciências da Computação — 1º semestre  
-💻 Aprendendo lógica de programação, Python e desenvolvimento web  
+🎓 Estudante de Ciências da Computação — 2º semestre  
+💻 Aprendendo lógica de programação, estrutura de dados em C/C++ 
 🌱 Desenvolvendo projetos com impacto social e comunitário  
 📍 Santa Catarina, Brasil  
 
